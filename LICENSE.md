@@ -11,6 +11,7 @@ If you are an employee, contractor, volunteer, representative, or have any other
 
 * Yandex
 * TrueConf
+* Lesta Studio
 
 Or if you represent or are associated with any legal, organizational, or professional entity providing services to or on behalf of the aforementioned entities:
 
